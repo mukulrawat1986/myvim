@@ -175,7 +175,7 @@ let g:go_highlight_structs = 1
 let g:go_highlight_operators = 1
 let g:go_highlight_build_constraints = 1
 
-let $GOPATH = "/Users/markbates/Dropbox/development/gocode"
+let $GOPATH = "/Users/mukulrawat/workspace"
 let g:go_bin_path = "/usr/local/bin"
 let g:go_fmt_command = "goimports"
 " autocmd BufWritePost *.go silent :GoImports
